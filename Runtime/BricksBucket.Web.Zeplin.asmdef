@@ -1,8 +1,7 @@
 {
-    "name": "BricksBucket.Web",
-    "references": [
-        "GUID:ab8fa571ad34f4f8da875355111b9aae"
-    ],
+    "name": "BricksBucket.Web.Zeplin",
+    "rootNamespace": "",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
